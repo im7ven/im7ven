@@ -1,4 +1,4 @@
-### Hi there, my name is Justin Alexander 👋
+### Hi there 👋
 
 
 Passionate about continuous learning and fueled by a strong desire to evolve, I am on a journey to become a skilled frontend web developer. I am driven by the excitement of landing a job in the industry, where I can not only apply my skills but also build connections with like-minded professionals. I am eager to immerse myself in the world of web development, where I can grow both personally and professionally. I am ready to give it my all, investing my time and energy into honing my skills, staying up-to-date with the latest industry trends, and learning new concepts that will propel me forward in my career. I am excited to embrace challenges, overcome obstacles, and continuously push myself to new heights in the ever-evolving field of frontend web development.
