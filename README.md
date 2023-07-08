@@ -6,7 +6,7 @@ Passionate about continuous learning and fueled by a strong desire to evolve, I 
 <hr/>
 
 
-Some of my skills include:
+###Some of my skills include:
 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -18,9 +18,9 @@ Some of my skills include:
 
 <br/>
 
-Familiar With: 
+###Familiar With: 
 
-<br/>
+
 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -28,9 +28,9 @@ Familiar With:
 
 <br/>
 
-Next Stop 😍:
+###Next Stop 😍:
 
-<br/>
+
 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
