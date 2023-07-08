@@ -6,7 +6,7 @@ Passionate about continuous learning and fueled by a strong desire to evolve, I 
 <hr/>
 
 
-###Some of my skills include:
+### Some of my skills include:
 
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -18,7 +18,7 @@ Passionate about continuous learning and fueled by a strong desire to evolve, I 
 
 <br/>
 
-###Familiar With: 
+### Familiar With: 
 
 
 
