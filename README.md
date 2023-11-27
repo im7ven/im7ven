@@ -34,9 +34,7 @@ Passionate about continuous learning and fueled by a strong desire to evolve, I 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<img scr="https://github-readme-stats.vercel.app/api?username=anuraghazra"/> 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im7ven)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
