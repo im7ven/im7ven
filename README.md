@@ -31,8 +31,9 @@ Passionate about continuous learning and fueled by a strong desire to evolve, I 
 <br/>
 <br/>
 <br/>
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im7ven&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
