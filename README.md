@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Here is my story:</h3>
 
 ###
 
-<p align="left">Here is my story:<br><br>I have always been drawn to food and food services. My professional background lies within the food industry. However, once I stumbled upon coding and unlocked a new passion, it was clear what I wanted to pursue as a career.<br><br>Ever since, I have developed this eagerness and willingness to learn and develop new skills in the tech industry. I spend most of my spare hours exploring the latest trends, crafting projects, and leveling up my skill set. I embrace every opportunity to expand my knowledge with a focus towards frontend development.</p>
+<p align="left">I have always been drawn to food and food services. My professional background lies within the food industry. However, once I stumbled upon coding and unlocked a new passion, it was clear what I wanted to pursue as a career.<br><br>Ever since, I have developed this eagerness and willingness to learn and develop new skills in the tech industry. I spend most of my spare hours exploring the latest trends, crafting projects, and leveling up my skill set. I embrace every opportunity to expand my knowledge with a focus towards frontend development.</p>
 
 ###
 
