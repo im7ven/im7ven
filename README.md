@@ -1,22 +1,27 @@
-
-###
-
-<h1 align="center">Hello!<br>Frontend Developer here</h1>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/justin-alexander-27542522b"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  Here is my story:</h3>
+<h1 align="center">Hello!<br><br>Frontend Developer here</h1>
 
 ###
 
-<p align="left">I have always been drawn to food and food services. My professional background lies within the food industry. However, once I stumbled upon coding and unlocked a new passion, it was clear what I wanted to pursue as a career.<br><br>Ever since, I have developed this eagerness and willingness to learn and develop new skills in the tech industry. I spend most of my spare hours exploring the latest trends, crafting projects, and leveling up my skill set. I embrace every opportunity to expand my knowledge with a focus towards frontend development.</p>
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="Portfolio"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Here is my story:<br><br>I have always been drawn to food and food services. My professional background lies within the food industry. However, once I stumbled upon coding and unlocked a new passion, it was clear what I wanted to pursue as a career.<br><br>Ever since, I have developed this eagerness and willingness to learn and develop new skills in the tech industry. I spend most of my spare hours exploring the latest trends, crafting projects, and leveling up my skill set. I embrace every opportunity to expand my knowledge with a focus towards frontend development.</p>
 
 ###
 
